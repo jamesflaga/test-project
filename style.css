@@ -6,9 +6,13 @@ body {
 }
 
 h1 {
-  color: #333;
+  color: #ff6a6a;
 }
 
 p {
-  color: #666;
+  color: #1760c5;
+}
+
+.comment {
+  color: #0c7f01;
 }
